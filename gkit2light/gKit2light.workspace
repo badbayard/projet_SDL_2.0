@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="gKit2light">
+		<Project filename="shader_kit.cbp" active="1">
+		</Project>
+		<Project filename="tuto1.cbp">
+		</Project>
+		<Project filename="tuto2.cbp">
+		</Project>
+		<Project filename="tuto3.cbp">
+		</Project>
+		<Project filename="tuto4.cbp">
+		</Project>
+		<Project filename="tuto5.cbp">
+		</Project>
+		<Project filename="tuto6.cbp">
+		</Project>
+		<Project filename="tuto7.cbp">
+		</Project>
+		<Project filename="tuto8.cbp">
+		</Project>
+		<Project filename="tuto_transform.cbp">
+		</Project>
+		<Project filename="tuto2GL.cbp">
+		</Project>
+		<Project filename="tuto3GL.cbp">
+		</Project>
+		<Project filename="tuto3GL_reflect.cbp">
+		</Project>
+		<Project filename="tuto4GL.cbp">
+		</Project>
+		<Project filename="tuto4GL_normals.cbp">
+		</Project>
+		<Project filename="tuto5GL.cbp">
+		</Project>
+		<Project filename="tuto5GL_sampler.cbp">
+		</Project>
+		<Project filename="tuto5GL_samplers.cbp">
+		</Project>
+		<Project filename="tuto5GL_multi.cbp">
+		</Project>
+		<Project filename="tuto_time.cbp">
+		</Project>
+		<Project filename="tuto_mdi.cbp">
+		</Project>
+		<Project filename="tp2.cbp">
+		</Project>
+		<Project filename="l2_lifgfx.cbp">
+		</Project>
+	</Workspace>
+</CodeBlocks_workspace_file>

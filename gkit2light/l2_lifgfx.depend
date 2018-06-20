@@ -1,0 +1,1109 @@
+# depslib dependency file v1.0
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\app.cpp
+	"app.h"
+	"glcore.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\app.h
+	"window.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\window.h
+	<SDL2/SDL.h>
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\begin_code.h
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\close_code.h
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\glcore.h
+	<OpenGL/gl3.h>
+	"GL/glew.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\buffer.cpp
+	<cstdio>
+	"buffer.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\buffer.h
+	<cstddef>
+	"glcore.h"
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\color.cpp
+	"color.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\color.h
+
+1478163966 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\draw.cpp
+	"draw.h"
+	"window.h"
+
+1478163966 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\draw.h
+	"mesh.h"
+	"orbiter.h"
+	"window.h"
+
+1478163966 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\mesh.h
+	<vector>
+	<unordered_map>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\vec.h
+	<iostream>
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\mat.h
+	"vec.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\orbiter.h
+	"vec.h"
+	"mat.h"
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\image.cpp
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\image_io.cpp
+	<cstdio>
+	<string>
+	<algorithm>
+	<cmath>
+	<SDL2_image/SDL_image.h>
+	<SDL2/SDL_image.h>
+	"image_io.h"
+
+1453996886 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\image_io.h
+	"image.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\image.h
+	<vector>
+	<cassert>
+	"color.h"
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\mat.cpp
+	<cassert>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	"mat.h"
+
+1478163966 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\mesh.cpp
+	<cstdio>
+	<cassert>
+	<string>
+	<algorithm>
+	"program.h"
+	"uniforms.h"
+	"buffer.h"
+	"mesh.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\program.h
+	<string>
+	"glcore.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\uniforms.h
+	<string>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\orbiter.cpp
+	<cstdio>
+	<algorithm>
+	"orbiter.h"
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\program.cpp
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<climits>
+	<cstdio>
+	"program.h"
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\text.cpp
+	<ctype.h>
+	<cstdio>
+	<cstdarg>
+	"program.h"
+	"uniforms.h"
+	"image.h"
+	"image_io.h"
+	"texture.h"
+	"text.h"
+
+1478163966 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\texture.h
+	"glcore.h"
+	"image.h"
+	"image_io.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\text.h
+	"glcore.h"
+	"color.h"
+	"text.h"
+
+1478163966 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\texture.cpp
+	<cassert>
+	<cstdio>
+	<algorithm>
+	"texture.h"
+	"image_io.h"
+
+1478163966 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\uniforms.cpp
+	<cstdio>
+	<set>
+	"program.h"
+	"uniforms.h"
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\vec.cpp
+	<cmath>
+	"vec.h"
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\wavefront.cpp
+	<ctype.h>
+	<cstdio>
+	"wavefront.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\wavefront.h
+	"mesh.h"
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\widgets.cpp
+	<cstdio>
+	<cassert>
+	<cstring>
+	<vector>
+	<algorithm>
+	"window.h"
+	"widgets.h"
+
+1475131431 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\widgets.h
+	"text.h"
+	"widgets.h"
+
+1475131431 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\gkit\window.cpp
+	<cassert>
+	<cstdio>
+	<vector>
+	<set>
+	<string>
+	"glcore.h"
+	"window.h"
+
+1475136283 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\l2_lifgfx\animationcurve.cpp
+	<time.h>
+	<cassert>
+	<cstdio>
+	"draw.h"
+	"AnimationCurve.h"
+
+1475136283 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\l2_lifgfx\animationcurve.h
+	<iostream>
+	"vec.h"
+	"mat.h"
+	"mesh.h"
+	"orbiter.h"
+
+1475136283 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\l2_lifgfx\main.cpp
+	"Viewer.h"
+
+1481038009 c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\l2_lifgfx\viewer.h
+	"glcore.h"
+	"window.h"
+	"program.h"
+	"buffer.h"
+	"texture.h"
+	"mesh.h"
+	"draw.h"
+	"vec.h"
+	"mat.h"
+	"orbiter.h"
+	"app.h"
+	"AnimationCurve.h"
+
+1481191901 source:c:\users\yanni\documents\licence_informatique\lifo41\gkit2light\src\l2_lifgfx\viewer.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"draw.h"
+	"Viewer.h"
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\app.cpp
+	"app.h"
+	"glcore.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\app.h
+	"window.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\window.h
+	<SDL2/SDL.h>
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\begin_code.h
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\close_code.h
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\glcore.h
+	<OpenGL/gl3.h>
+	"GL/glew.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\buffer.cpp
+	<cstdio>
+	"buffer.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\buffer.h
+	<cstddef>
+	"glcore.h"
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\color.cpp
+	"color.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\color.h
+
+1478167566 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\draw.cpp
+	"draw.h"
+	"window.h"
+
+1478167566 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\draw.h
+	"mesh.h"
+	"orbiter.h"
+	"window.h"
+
+1478167566 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\mesh.h
+	<vector>
+	<unordered_map>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\vec.h
+	<iostream>
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\mat.h
+	"vec.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\orbiter.h
+	"vec.h"
+	"mat.h"
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\image.cpp
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\image_io.cpp
+	<cstdio>
+	<string>
+	<algorithm>
+	<cmath>
+	<SDL2_image/SDL_image.h>
+	<SDL2/SDL_image.h>
+	"image_io.h"
+
+1454000486 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\extern\mingw\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\image_io.h
+	"image.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\image.h
+	<vector>
+	<cassert>
+	"color.h"
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\mat.cpp
+	<cassert>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	"mat.h"
+
+1478167566 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\mesh.cpp
+	<cstdio>
+	<cassert>
+	<string>
+	<algorithm>
+	"program.h"
+	"uniforms.h"
+	"buffer.h"
+	"mesh.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\program.h
+	<string>
+	"glcore.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\uniforms.h
+	<string>
+	"glcore.h"
+	"vec.h"
+	"mat.h"
+	"color.h"
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\orbiter.cpp
+	<cstdio>
+	<algorithm>
+	"orbiter.h"
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\program.cpp
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<climits>
+	<cstdio>
+	"program.h"
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\text.cpp
+	<ctype.h>
+	<cstdio>
+	<cstdarg>
+	"program.h"
+	"uniforms.h"
+	"image.h"
+	"image_io.h"
+	"texture.h"
+	"text.h"
+
+1478167566 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\texture.h
+	"glcore.h"
+	"image.h"
+	"image_io.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\text.h
+	"glcore.h"
+	"color.h"
+	"text.h"
+
+1478167566 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\texture.cpp
+	<cassert>
+	<cstdio>
+	<algorithm>
+	"texture.h"
+	"image_io.h"
+
+1478167566 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\uniforms.cpp
+	<cstdio>
+	<set>
+	"program.h"
+	"uniforms.h"
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\vec.cpp
+	<cmath>
+	"vec.h"
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\wavefront.cpp
+	<ctype.h>
+	<cstdio>
+	"wavefront.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\wavefront.h
+	"mesh.h"
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\widgets.cpp
+	<cstdio>
+	<cassert>
+	<cstring>
+	<vector>
+	<algorithm>
+	"window.h"
+	"widgets.h"
+
+1475135031 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\widgets.h
+	"text.h"
+	"widgets.h"
+
+1475135031 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\gkit\window.cpp
+	<cassert>
+	<cstdio>
+	<vector>
+	<set>
+	<string>
+	"glcore.h"
+	"window.h"
+
+1475139883 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\l2_lifgfx\animationcurve.cpp
+	<time.h>
+	<cassert>
+	<cstdio>
+	"draw.h"
+	"AnimationCurve.h"
+
+1475139883 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\l2_lifgfx\animationcurve.h
+	<iostream>
+	"vec.h"
+	"mat.h"
+	"mesh.h"
+	"orbiter.h"
+
+1475139883 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\l2_lifgfx\main.cpp
+	"Viewer.h"
+
+1481041609 c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\l2_lifgfx\viewer.h
+	"glcore.h"
+	"window.h"
+	"program.h"
+	"buffer.h"
+	"texture.h"
+	"mesh.h"
+	"draw.h"
+	"vec.h"
+	"mat.h"
+	"orbiter.h"
+	"app.h"
+	"AnimationCurve.h"
+
+1481195501 source:c:\users\yanni\documents\licence_informatique\l2\lifo41\gkit2light\src\l2_lifgfx\viewer.cpp
+	<cassert>
+	<cmath>
+	<cstdio>
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"draw.h"
+	"Viewer.h"
+
